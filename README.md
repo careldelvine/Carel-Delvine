@@ -1,8 +1,7 @@
-# Halo semua! 
+# Hello everyone! 
 
-Perkenalkan nama saya **Carel Delvine Winardo**.\
-Saya seorang **Mahasiswa** di [Universitas Katolik Parahyangan](https://www.unpar.ac.id/) dan mengambil jurusan Teknik Sipil.  
-Jika kamu tertarik untuk berkenalan denganku, silakan ikuti akun [Linkedin](https://www.linkedin.com/in/careldelvine/)ku ya.
+My name is **Carel Delvine**.\
+I'm an undergraduate Student from Parahyangan Catholic Univerisity majoring in Engineering with +1 year of diverse working experience with strong communication and analytical skills. My contribution to many committees and organizations has given me confidence in my leadership role and have strong initiative evidenced by providing solutions to complete various daily tasks. Colleagues know me as a highly strategic, analytical and creative thinker who can always come up with a new approach. Furthermore, I’m really passionate about digital utilization to accelerate business performance. I also have an excellent understanding and proficiency in platforms for effective data analyses, including SQL, Sheets, Excel, Tableau, and R. Here is my portofolio [website]() to know more about me!
 
 <p align="left">
 <a href="https://github.com/careldelvine">
